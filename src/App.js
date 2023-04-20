@@ -92,7 +92,7 @@ function App() {
           {running ? 'Stop' : 'Start'}
         </button>
       </div>
-      <a href="www.danielevi.co.il">
+      <a href="http://www.danielevi.co.il">
         <h3>www.Danielevi.co.il</h3>
       </a>
       <div
