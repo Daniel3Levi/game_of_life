@@ -92,9 +92,9 @@ function App() {
           {running ? 'Stop' : 'Start'}
         </button>
       </div>
-      <link href="www.danielevi.co.il">
+      <a href="www.danielevi.co.il">
         <h3>www.Danielevi.co.il</h3>
-      </link>
+      </a>
       <div
         className="App"
         style={{
